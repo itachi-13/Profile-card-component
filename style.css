@@ -1,12 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
-/* 400, 700 */
-
-.aa {
-    color: hsl(185, 75%, 39%);
-    color: hsl(229, 23%, 23%);
-    color: hsl(227, 10%, 46%);
-    color: hsl(0, 0%, 59%);
-}
 
 * {
     margin: 0;
